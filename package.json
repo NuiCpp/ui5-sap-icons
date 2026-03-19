@@ -1,0 +1,25 @@
+{
+  "name": "ui5-sap-icons",
+  "version": "1.0.0",
+  "description": "Nui-fied UI5 SAP icons.",
+  "homepage": "https://github.com/NuiCpp/ui5-sap-icons#readme",
+  "bugs": {
+    "url": "https://github.com/NuiCpp/ui5-sap-icons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuiCpp/ui5-sap-icons.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Tim Ebbeke",
+  "type": "module",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@ui5/webcomponents-icons": "^2.20.1",
+    "@ui5/webcomponents-icons-business-suite": "^2.20.1",
+    "@ui5/webcomponents-icons-tnt": "^2.20.1"
+  }
+}
